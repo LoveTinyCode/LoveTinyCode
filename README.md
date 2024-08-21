@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @LoveTinyCode
+- 👀 I do PHP, CSS, HTML and if needed, JavaScript.
+- 🌱 Trying to understand WHY we need AI
+- 💞️ Would like to be involved in a flat-file E-commerce system
+- 📫 Email
+- 😄 Him or He
+- ⚡ Swedish
